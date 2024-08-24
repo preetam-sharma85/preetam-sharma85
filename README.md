@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++,React Native, DSA,MERN**
 
-- 💬 Ask me about **react, javascript and gsap**
+- 💬 Ask me about **HTML, CSS, Javascript, Reactjs and gsap**
 
 - 📫 How to reach me **preetamsharmad200358@gmail.com**
 
